@@ -1,0 +1,44 @@
+.msg {
+    font-family: "Comic sans ms";
+    color: blue;
+    position: relative;
+    text-align: center;
+    top: 0.1rem;
+}
+
+.dsc {
+    font-family: "Comic sans ms";
+    position: relative;
+    text-align: center;
+    bottom: 20px;
+}
+.btn1 {
+    position: relative;
+    font-family: monospace;
+   
+}
+
+.btn2 {
+    position: relative;
+    margin-left: 10rem;
+    font-family: monospace;
+   
+}
+
+.btn3 {
+    position: relative;
+    top: 60px;
+    right: 525px;
+    font-family: monospace;
+}
+
+.clock {
+    position: relative;
+    margin-left: 10rem;
+    top: 5rem;
+    font-size: 24px;
+}
+
+.p {
+    margin-left: 550px
+}
